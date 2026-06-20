@@ -70,10 +70,3 @@ Docker · Git · GitHub · REST APIs · Basic MLOps workflows
 - Email: daveallenborja@gmail.com
 - GitHub: github.com/AllenBorja
 
----
-
-## GitHub Stats
-
-_(Optional for visual summary; remove if you prefer ultra-minimal layout)_
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenBorja&show_icons=true&hide_title=true)
