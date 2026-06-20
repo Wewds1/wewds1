@@ -1,36 +1,79 @@
-## 👋 About Me
-
-- Software Engineer focused on machine learning and backend systems  
-- Build data-driven applications and simple ML pipelines  
-- Experience developing APIs and deploying models using Python and Docker  
-- Continuously learning and improving in AI and machine learning  
-- Interested in building real-world AI applications  
+# Allen Borja
+### Software Engineer · Machine Learning · Data Science · Backend Systems
 
 ---
 
-## 🌐 Connect with Me
+## Introduction
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borjaallen/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daveallenborja@gmail.com)
+Computer Engineering graduate focused on building software systems that connect machine learning with real-world applications. I work across backend development, data pipelines, and model deployment, with an emphasis on making ML systems usable beyond experimentation.
+
+My work centers on designing systems that are structured, testable, and deployable. I’m particularly interested in how data-driven models integrate with APIs, services, and production environments.
+
+I value practical engineering, continuous learning, and building solutions that are grounded in real use cases rather than isolated experiments.
 
 ---
 
-## 💻 Tech Stack
+## What I'm working on
 
-**Languages & Core**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Developing machine learning systems with deployment-ready architectures
+- Building backend services using FastAPI and Flask for ML integration
+- Exploring end-to-end pipelines from data processing to model serving
+- Improving system design for scalable ML workflows
 
-**Machine Learning / Data**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+---
 
-**Backend & Tools**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## Currently exploring
 
-**Others**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- MLOps practices for reproducible ML systems
+- Feature engineering strategies for tabular and time-series data
+- Model monitoring and evaluation in production environments
+- Data analytics techniques for decision-oriented systems
+
+---
+
+## Core technologies
+
+**Programming & Backend**  
+Python · SQL · FastAPI · Flask · Linux · PowerShell
+
+**Machine Learning & Data Science**  
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · OpenCV
+
+**Data & Databases**  
+PostgreSQL · MySQL · Data modeling · Query optimization
+
+**Tools & Infrastructure**  
+Docker · Git · GitHub · REST APIs · Basic MLOps workflows
+
+---
+
+## Featured project work
+
+- **Energy Forecasting System**  
+  ML-based forecasting pipeline with deployment configuration and Dockerized setup for reproducible execution.
+
+- **Telecom Churn Prediction**  
+  End-to-end ML pipeline with structured codebase, automated testing, and analysis notebooks focused on customer retention behavior.
+
+- **B2B SaaS Analytics ML System**  
+  Business-oriented machine learning project analyzing SaaS metrics and customer behavior patterns.  
+  Repository: Wewds1/b2b_saas_ml
+
+- **Air Quality Monitoring System**  
+  Environmental data-driven ML system designed for real-time analysis and deployment readiness.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/borjaallen/
+- Email: daveallenborja@gmail.com
+- GitHub: github.com/AllenBorja
+
+---
+
+## GitHub Stats
+
+_(Optional for visual summary; remove if you prefer ultra-minimal layout)_
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenBorja&show_icons=true&hide_title=true)
