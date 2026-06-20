@@ -68,5 +68,3 @@ Docker · Git · GitHub · REST APIs · Basic MLOps workflows
 
 - LinkedIn: https://www.linkedin.com/in/borjaallen/
 - Email: daveallenborja@gmail.com
-- GitHub: github.com/AllenBorja
-
